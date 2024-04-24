@@ -7,7 +7,6 @@ m
 
 
 n
-<<<<<<< HEAD
 
 sees
 
@@ -30,9 +29,10 @@ df
 
 
 df2
-=======
 m
 
 
 n
->>>>>>> 1eddb47 (one)
+
+
+heloo fun
